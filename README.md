@@ -41,7 +41,6 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 ## 🎨 Graphic Software
 ### [Pixelmator | 50% off 💸](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12&ign-mpt=uo%3D4)
 ### [Adobe Creative Cloud | 20% off 💰](https://www.adobe.com/creativecloud/plans.html?promoid=8DN85N5R&mv=other)
-### [Clip Studio Pro (Paint & EX versions) | 60% off 💸](http://www.clipstudio.net/en/)
 ### [PDF Expert | 20$ off 💰](https://pdfexpert.com/de/store)
 ### [Corel Painter | 20% off 💰](https://www.painterartist.com/en/special-offers/)
 ### [FontExplorer X Pro 6 | 50% off with code FEXTHANKS50 💸](http://www.fontexplorerx.com/)
@@ -61,7 +60,7 @@ This is a list a list of all Black Friday Deals for macOS software and Swift tut
 
 ## 📖 Books and videos
 ### [Learn Version Control with Git | 75% off 💸](https://www.git-tower.com/learn/git/ebook#pricing)
-### [Learn Git on the Command Line | 75% off 💰](https://www.git-tower.com/learn/git/videos#pricing)
+### [Learn Git on the Command Line | 75% off 💸](https://www.git-tower.com/learn/git/videos#pricing)
 ### [Hacking with Swift | 50% off all books and videos 💸](https://www.hackingwithswift.com/offers)
 ### [Swift Style | 40% off with code "turkeysale2017" 💰](http://ericasadun.com/2017/11/21/black-friday-sale-swift-style-with-a-discount)
 ### [Swift Algorithms & Data Structures | 50% off with code "FLASH" 💸](https://shop.waynewbishop.com/products/swift-algorithms-3rd-edition)
